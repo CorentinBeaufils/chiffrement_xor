@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "chiffrement_xor": {
+      "commandName": "Project",
+      "commandLineArgs": "C:/Users/corentin/Desktop/Nouveau_dossier/chiffrement.txt\r\nC:/Users/corentin/Desktop/Nouveau_dossier/clef.txt\r\n"
+    }
+  }
+}
